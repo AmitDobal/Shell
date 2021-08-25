@@ -7,5 +7,5 @@ then
   exit 1;
 fi
 
-echo "Continue with your task!!!"
+echo "Continue with your task"
 exit 0
